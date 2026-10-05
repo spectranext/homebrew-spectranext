@@ -1,11 +1,11 @@
 class SpectranextSdk < Formula
   desc "SDK for developing Spectranext and Spectranet applications"
   homepage "https://github.com/spectranext/spectranext-sdk"
-  version "0.1.2"
+  version "0.1.3"
   license :cannot_represent
 
-  url "https://github.com/spectranext/spectranext-sdk/releases/download/0.1.2/spectranext-sdk-0.1.2-macos-arm64.tar.gz"
-  sha256 "9272391f722610f24fe9aafedbe4ccfde253340e701d68c37f955a2b3889817a"
+  url "https://github.com/spectranext/spectranext-sdk/releases/download/0.1.3/spectranext-sdk-0.1.3-macos-arm64.tar.gz"
+  sha256 "8882e9a410eb5d2fd7ecb11534e7a4342d38e18890fb677506fe9658bf6d5f21"
 
   depends_on "cmake"
   depends_on "python@3.14"
